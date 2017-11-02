@@ -1,0 +1,27 @@
+body {
+	text-align:justify;
+}
+
+h2 {
+	text-align: center;
+}
+
+h2+p {
+	text-align: center;
+}
+
+h3{
+	border-bottom: 1px solid #000; 
+}
+
+h3 em{
+	text-align: right;
+}
+
+h4 em{
+    float: right;
+}
+
+p em:last-child{
+	float:right;
+}
