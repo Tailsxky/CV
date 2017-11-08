@@ -2,6 +2,16 @@ body {
 	text-align:justify;
 }
 
+.cvPage {
+	margin:4% 10%;
+	border:1px solid #555;
+	box-shadow:0 10px 50px 15px rgba(0, 0, 0, 0.6);
+}
+
+.content {
+	margin:0 2em;
+}
+
 h2 {
 	text-align: center;
 }
